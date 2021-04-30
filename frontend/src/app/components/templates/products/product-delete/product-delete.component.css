@@ -1,0 +1,20 @@
+section {
+    display: flex;
+    justify-content: center;
+    margin-right: 35px;
+}
+
+.card {
+    width: 60vw;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+button {
+    margin-top: 20px;
+    margin-right: 10px;
+}

@@ -1,0 +1,20 @@
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 52px;
+}
+
+.content-01 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title-group {
+    margin-left: 15px;
+}
+
+.logo {
+    height: 42px;
+}

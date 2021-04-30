@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html, body { height: 100%; }
+
+body { 
+    margin: 0; 
+    font-family: Roboto, "Helvetica Neue", sans-serif;  
+    background-color: #e8eaed;
+}
+
+.alinhar-texto {
+    vertical-align: middle;
+}
+
+.msg-success {
+    background-color: #5EFC82;
+}
+
+.msg-error {
+    background-color: #DC143C;
+}

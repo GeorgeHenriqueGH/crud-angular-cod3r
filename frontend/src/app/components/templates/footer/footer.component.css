@@ -1,0 +1,16 @@
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    flex: 1 1 auto;
+    position: fixed;
+    bottom: 0;
+    height: 40px;
+}
+
+.footer > span {
+    font-size: 10pt;
+}
+
+.red {
+    color: #DC143C;
+}

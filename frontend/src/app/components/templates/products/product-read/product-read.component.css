@@ -1,0 +1,36 @@
+div {
+    overflow-y: scroll;
+    max-height: 480px;
+}
+
+table {
+    width: 100%; 
+}
+
+.green {
+    margin-right: 15px;
+}
+
+.green > i {
+    color: #5efc82;
+}
+
+.red > i {
+    color: #DD2C00;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+::-webkit-scrollbar-track {
+    background: #424242; 
+}
+   
+::-webkit-scrollbar-thumb {
+    background: #888; 
+}
+  
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}

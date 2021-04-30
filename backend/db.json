@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Shingeki no Kyojin",
+      "type": "Mangá"
+    },
+    {
+      "id": 2,
+      "name": "Drácula de Bram Stoker",
+      "type": "Horror"
+    },
+    {
+      "name": "O Exorcista",
+      "type": "Horror",
+      "id": 4
+    },
+    {
+      "name": "Conan",
+      "type": "Espada e feitiçaria",
+      "id": 5
+    },
+    {
+      "name": "Frankenstein",
+      "type": "Ficção científica",
+      "id": 6
+    },
+    {
+      "name": "Morte Súbita",
+      "type": "Romance",
+      "id": 7
+    },
+    {
+      "name": "O Conde de Monte Cristo",
+      "type": "Romance",
+      "id": 8
+    },
+    {
+      "name": "Os Três Mosqueteiros",
+      "type": "Romance histórico,",
+      "id": 9
+    },
+    {
+      "name": "A revolução dos bichos",
+      "type": "Ficção distópica",
+      "id": 10
+    },
+    {
+      "name": "Ossos",
+      "type": "Romance Policial",
+      "id": 11
+    }
+  ]
+}
